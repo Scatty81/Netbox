@@ -1,0 +1,9 @@
+{
+	"name": "Devices-HTML-Export2",
+	"object_types":"dcim.device",
+    "description":"Exports the Devices in a HTML table",
+    "file_extension":".html",
+    "mime_type":"html/text",
+    "as_attachment":"true",
+	"template_code":"<code>queryset</code>"
+}
