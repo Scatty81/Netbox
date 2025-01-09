@@ -1,14 +1,23 @@
-[{
-  "name": "Raspberry Pi Foundation",
-  "slug":"raspberry-pi-foundation",
-  "description":"Raspberry Pi is a series of small single-board computers (SBCs)",
-  "tags":"",
-  "id":""
-},
-{
-  "name": "Dell",
-  "slug":"dell",
-  "description":"Dell Inc. is an American technology company that develops, sells, repairs, and supports personal computers (PCs)",
-  "tags":"",
-  "id":""
-}]
+[
+  {
+    "name": "Raspberry Pi Foundation",
+    "slug":"raspberry-pi-foundation",
+    "description":"Raspberry Pi is a series of small single-board computers (SBCs)",
+    "tags":"",
+    "id":""
+  },
+  {
+    "name": "Dell",
+    "slug":"dell",
+    "description":"Dell Inc. is an American technology company that develops, sells, repairs, and supports personal computers (PCs)",
+    "tags":"",
+    "id":""
+  },
+  {
+    "name": "ASUS",
+    "slug":"asus",
+    "description":"ASUS is a multinational computer, phone hardware and electronics manufacturer",
+    "tags":"",
+    "id":""
+  }
+]
